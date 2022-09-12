@@ -1,12 +1,12 @@
-### Hi there 
+### Hello 👋
 
 I am an MLOPs Engineer based in Spain
 
-- 🔭 I’m currently working on Idealista.com scraper to look for apartments in Spain  
+- 🔭 I’m currently working on Idealista.com scraper to look for apartments in 🇪🇸 
 - 🌱 I’m currently learning Kubernetes and AWS  
-- 📫 Reach me: twitter.com/M_A_Balcerzak
+- 📫 Reach me: [twitter](twitter.com/M_A_Balcerzak)
 
-You can find out more abot by side projects on my personal blog [mabdata.com](http://mabdata.com). I love making stuff after work: [balcerzak.art/](https://balcerzak.art/)
+You can find out more about my apartments scraper here: [mabdata.com](http://mabdata.com). I also love making stuff after work: [balcerzak.art/](https://balcerzak.art/)
 
 <div align="center">
 
