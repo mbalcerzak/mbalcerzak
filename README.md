@@ -15,7 +15,6 @@ You can find out more about my apartments scraper here: [mabdata.com](http://mab
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mbalcerzak&show_icons=true&theme=dark"/>  
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbalcerzak&layout=compact&theme=dark"/>  
  
 </div>
