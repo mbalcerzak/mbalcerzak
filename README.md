@@ -5,7 +5,7 @@ I am an MLOPs Engineer based in Spain
 - 🔭 I’m currently working on Idealista.com scraper to look for apartments in 🇪🇸 
 - 🌱 I’m currently learning AWS  
 
-You can find out more about my apartments scraper here: [mabdata.com](http://mabdata.com). I also enjoy making[bags](https://www.instagram.com/bags_by_mab/) after work 
+You can find out more about my apartments scraper here: [mabdata.com](http://mabdata.com). I also enjoy making [bags](https://www.instagram.com/bags_by_mab/) after work 
 
 <div align="center">
 
